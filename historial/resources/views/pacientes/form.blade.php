@@ -1,0 +1,1 @@
+formulario que tendra lso datos en comun entre create y endswitch
